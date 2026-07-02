@@ -236,19 +236,6 @@ if pytest is being used.
 
 ---
 
-## GitHub Collaboration
-
-This project uses GitHub for collaborative software development.
-
-Group members are added as repository collaborators to enable:
-
-- Code contribution
-- Version control
-- Issue tracking
-- Pull Requests
-- Collaborative development
-
----
 
 ## Version Control Workflow
 
@@ -270,14 +257,12 @@ git push
 
 Potential enhancements include:
 
-- Graphical User Interface (GUI)
-- Web-based interface
-- Database integration (MySQL/PostgreSQL)
-- Email notifications
-- Reporting dashboard
-- User role management
-- Reservation analytics
-- REST API implementation
+- Web-based interface 
+- Email notifications 
+- Reporting dashboard 
+- User role management 
+- Reservation analytics 
+- REST API implementation 
 
 ---
 
@@ -310,13 +295,3 @@ GitHub Repository:
 https://github.com/Kabaka-dev/MBRS-Project
 
 ---
-
-## Acknowledgements
-
-Special thanks to:
-
-- Course Lecturer
-- Group Members
-- GitHub
-- Python Software Foundation
-- Open-source community
